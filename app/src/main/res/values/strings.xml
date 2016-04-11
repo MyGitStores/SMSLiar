@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMSLiar</string>
+
+    <string name="sender">发送者</string>
+    <string name="phone">电话号码</string>
+    <string name="content">短    信   内   容</string>
+    <string name="sendtime">发送时间</string>
+    <string name="sendnow">立即发送</string>
+    <string name="sendlater">定时发送</string>
+</resources>
